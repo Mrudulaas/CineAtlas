@@ -1,4 +1,4 @@
-# Marvel Prep 🎬
+# Cine Atlas 🎬
 
 > 🚧 **Portfolio Demo Project** — This is a demonstration project created for portfolio purposes.
 
